@@ -77,6 +77,10 @@ body {
     background-color: #ddd;
 }
 
+/*.chat .username:hover {
+  color: steelblue;
+}*/
+
 .spinner {
     float: right;
     height: 46px;
